@@ -1,0 +1,4 @@
+*.png
+*.svg
+!example_icon_16x16.png
+!example_icon.svg

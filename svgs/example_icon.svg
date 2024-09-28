@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Designed by Vexels.com - 2020 All Rights Reserved - https://vexels.com/terms-and-conditions/  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="886.8398" y1="980.5446" x2="911.7792" y2="273.9273">
+		<stop  offset="0.0722" style="stop-color:#49D3C1"/>
+		<stop  offset="0.1831" style="stop-color:#55D6C5"/>
+		<stop  offset="0.5248" style="stop-color:#76DDCF"/>
+		<stop  offset="0.8093" style="stop-color:#8BE1D6"/>
+		<stop  offset="1" style="stop-color:#92E3D8"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M1148.482,844.373c-3.288-18.247-8.071-36.228-14.573-53.739
+		c-20.088-54.113-57.445-103.529-109.195-133.963c-48.062-28.265-105.774-38.95-162.455-40.979
+		c-12.935-0.464-25.921-0.496-38.878-0.001c-33.275,1.271-66.354,6.022-97.886,15.901c-33.391,10.461-62.389,27.55-87.08,49.107
+		c56.141,36.846,97.13,92.49,119.718,153.339c7.801,21.013,13.541,42.592,17.488,64.487c3.912,21.711,1.259,42.819-6.32,61.814
+		c87.85,0.004,187.868,0.013,275.226,0.021C1110.025,960.367,1159.404,904.964,1148.482,844.373z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="826.0217" y1="978.3981" x2="850.9611" y2="271.7808">
+		<stop  offset="0.0722" style="stop-color:#7ED3C9"/>
+		<stop  offset="1" style="stop-color:#99E4D9"/>
+	</linearGradient>
+	<path fill="url(#SVGID_2_)" d="M846.906,542.593c86.086,0,155.871-69.786,155.871-155.872S932.991,230.85,846.906,230.85
+		s-155.874,69.786-155.874,155.872S760.82,542.593,846.906,542.593z"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="403.4446" y1="1209.4343" x2="448.7327" y2="-73.7272">
+		<stop  offset="0.0722" style="stop-color:#0164E1"/>
+		<stop  offset="1" style="stop-color:#18AAFD"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" d="M775.621,898.526c-3.947-21.896-9.687-43.474-17.488-64.487
+		c-22.588-60.849-63.577-116.494-119.718-153.339c-3.772-2.475-7.409-5.119-11.319-7.419
+		c-57.675-33.919-126.931-46.741-194.95-49.176c-15.523-0.555-31.106-0.595-46.655-0.001c-39.928,1.526-79.626,7.227-117.464,19.081
+		C151.8,679.597,78.836,781.786,52.974,893.094c-17.25,74.242,42.698,144.597,123.687,144.594
+		c124.847-0.004,316.765,0.013,474.21,0.027c55.13,0.005,100.629-32.751,118.43-77.375
+		C776.88,941.345,779.533,920.236,775.621,898.526z"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="388.6617" y1="1059.3594" x2="418.5896" y2="211.4031">
+		<stop  offset="0.0722" style="stop-color:#0164E1"/>
+		<stop  offset="1" style="stop-color:#18AAFD"/>
+	</linearGradient>
+	<circle fill="url(#SVGID_4_)" cx="413.721" cy="349.334" r="187.049"/>
+</g>
+</svg>
