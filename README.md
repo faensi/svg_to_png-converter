@@ -88,28 +88,3 @@ This script is released under the MIT License.
 ## Acknowledgments
 
 - **CairoSVG**: For SVG to PNG conversion capabilities.
-
-# Shortcuts
-
-If you're in a hurry:
-
-1. **Install Dependencies**
-
-   ```bash
-   pip install cairosvg
-   sudo apt-get install libcairo2 libpango1.0-0 libgdk-pixbuf2.0-0
-   ```
-
-2. **Run Script with Defaults**
-
-   ```bash
-   python3 svg_to_png.py
-   ```
-
-3. **Find Your PNG Icons**
-
-   Icons will be in the `icons/` directory.
-
----
-
-Enjoy your newly generated PNG icons!
